@@ -1,0 +1,24 @@
+# Compiled output
+dist/
+out/
+
+# Dependencies
+node_modules/
+
+# VS Code test artifacts
+.vscode-test/
+
+# Build logs
+*.log
+npm-debug.log*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Local environment overrides
+.env
+.env.local
+
+# VSIX packages (built for publishing — don't commit, generate on demand)
+*.vsix
